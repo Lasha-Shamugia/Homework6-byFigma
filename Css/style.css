@@ -114,7 +114,9 @@ h5 {
 
 footer {
   display: flex;
+  height: 460px;
   justify-content: center;
+  align-items: center;
   background-color: #53535354;
 }
 .footer-container {
