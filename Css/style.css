@@ -118,13 +118,14 @@ footer {
   justify-content: center;
   align-items: center;
   background-color: #53535354;
+  margin-top: 48px;
 }
 .footer-container {
   display: flex;
   justify-content: center;
   width: 1128px;  
   height: 223px;
-  background-color: rgb(204, 145, 68);
+  /* background-color: rgb(204, 145, 68); */
 }
 .text-logo {
   width: 306.05px;
@@ -139,7 +140,7 @@ footer {
 .logo-div {
   width: 318.05px;
   height: 221px;
-  background-color: aquamarine;
+  /* background-clor: aquamarine; */
 }
 .logo-img {
   margin-bottom: 32px;
