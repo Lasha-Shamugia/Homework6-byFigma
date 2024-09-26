@@ -122,7 +122,25 @@ footer {
 .footer-container {
   display: flex;
   justify-content: center;
-  width: 1128px;
+  width: 1128px;  
   height: 223px;
   background-color: rgb(204, 145, 68);
+}
+.text-logo {
+  width: 306.05px;
+  height: 73px;
+}
+.logos-wraper {
+  display: flex;
+  width: 140px;
+  justify-content: space-between;
+}
+.icons-logo {
+  width: 20px;
+  height: 20px;
+  background-color: #53535354;
+  border-radius: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
