@@ -129,11 +129,26 @@ footer {
 .text-logo {
   width: 306.05px;
   height: 73px;
+  margin-left: 12px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16.94px;
+  color: #535353;
+
+}
+.logo-div {
+  width: 318.05px;
+  height: 221px;
+  background-color: aquamarine;
+}
+.logo-img {
+  margin-bottom: 32px;
 }
 .logos-wraper {
   display: flex;
-  width: 140px;
+  width: 86px;
   justify-content: space-between;
+  margin: 28px 0px 0px 12px;
 }
 .icons-logo {
   width: 20px;
@@ -143,4 +158,47 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.links {
+  width: 136px;
+  height: 223px;
+  margin-left: 73.95px;
+}
+h2 {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24.20px;
+  color: #1E1E1E;
+  /* margin-bottom: 71px; */
+}
+ul {
+  height: 128px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-bottom: 17px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16.94px;
+  margin-top: 71px;
+  color: #535353;
+}
+.services {
+  width: 199px;
+  height: 223px;
+  margin-left: 200px;
+}
+.languages {
+  margin-left: 94px;
+}
+button {
+  width: 80px;
+  height: 45px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16.94px;
+  color:#FFFFFF;
+  background-color: #054A68;
+  border: none;
+  margin-top: 58.45px;
 }
