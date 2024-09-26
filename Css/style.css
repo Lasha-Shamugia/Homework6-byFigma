@@ -16,7 +16,6 @@ h3 {
   line-height: 26px;
   margin-bottom: 4px;
   color: #282828;
-
 }
 h1 {
   font-weight: 600;
@@ -39,15 +38,12 @@ h4 {
 
 .flex-box {
   width: 1336px;
-  /* background-color: lightseagreen; */
   margin: 0 auto;
 }
 .main-container1 {
   width: 310px;
   height: 430px;
-  /* background-color: blueviolet; */
   display: flex;
-  /* justify-content: center; */
   align-items: center;
   flex-direction: column;
   border: 1px solid #EAECF0;
@@ -56,7 +52,6 @@ h4 {
   width: 310px;
   height: 430px;
   border: 1px solid #EAECF0;
-  /* background-color: green; */
 }
 .row1 {
   display: flex;
@@ -65,11 +60,9 @@ h4 {
   height: 908px;
   align-content: space-between;
 }
-
 .up {
   width: 310px;
   height: 230px;
-  background-color: darkorange;
 }
 h5 {
   font-weight: 600;
@@ -112,6 +105,7 @@ h5 {
 
 /* Footer */
 
+
 footer {
   display: flex;
   height: 460px;
@@ -125,7 +119,6 @@ footer {
   justify-content: center;
   width: 1128px;  
   height: 223px;
-  /* background-color: rgb(204, 145, 68); */
 }
 .text-logo {
   width: 306.05px;
@@ -135,12 +128,10 @@ footer {
   font-size: 14px;
   line-height: 16.94px;
   color: #535353;
-
 }
 .logo-div {
   width: 318.05px;
   height: 221px;
-  /* background-clor: aquamarine; */
 }
 .logo-img {
   margin-bottom: 32px;
@@ -170,7 +161,6 @@ h2 {
   font-size: 20px;
   line-height: 24.20px;
   color: #1E1E1E;
-  /* margin-bottom: 71px; */
 }
 ul {
   height: 128px;
